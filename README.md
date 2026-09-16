@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours pédagogique en français consacré à Semaphore : identité anonyme, groupes, preuves zero-knowledge et vérification dans les contrats Solidity. Consultez le [sommaire du parcours](docs/fr/README.md).
+
 <p align="center">
     <h1 align="center">
       <picture>
